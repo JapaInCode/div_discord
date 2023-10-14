@@ -1,3 +1,12 @@
+#       _                       _____          _____             _ #
+#      | |                     |_   _|        / ____|           | | #
+#      | |  __ _  _ __    __ _   | |   _ __  | |       ___    __| |  ___ #
+#  _   | | / _` || '_ \  / _` |  | |  | '_ \ | |      / _ \  / _` | / _ \ #
+# | |__| || (_| || |_) || (_| | _| |_ | | | || |____ | (_) || (_| ||  __/ #
+#  \____/  \__,_|| .__/  \__,_||_____||_| |_| \_____| \___/  \__,_| \___| #
+#                | | #
+#                |_| #
+
 # Bot de Divulgação em Golang
 
 Este é um bot de divulgação escrito em Golang que permite enviar mensagens em massa para usuários do Discord. Ele é projetado para ser usado de maneira responsável e respeitosa, evitando qualquer forma de abuso ou spam.
