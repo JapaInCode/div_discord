@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/z8ig6eN.png](https://media.discordapp.net/attachments/1135979458298388592/1162817125606510612/ezgif.com-gif-maker_2.gif?ex=653d50d6&is=652adbd6&hm=89d67336814bef4ab2c02c2334981eb0cb44ad03cf69b339885ad394820ff15f&=)" alt="Logo">
+  <img src="https://cdn.discordapp.com/attachments/1135979458298388592/1162819453743018014/flirty_wink.png?ex=653d5301&is=652ade01&hm=3bf7ea29d60d75af5008c71ba8d3ac50263182e8e3015426b714a1b8115fee48&" alt="Logo">
 </p>
 
 # Bot de Divulgação em Golang
