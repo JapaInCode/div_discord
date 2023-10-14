@@ -14,7 +14,17 @@ Antes de usar este bot, certifique-se de ter os seguintes pré-requisitos instal
 
    ```bash
    git clone https://github.com/seu-usuario/bot-divulgacao-golang.git
-   ```
+2. Navegue até o diretório do projeto:   
+   ```bash
+   cd bot-divulgacao-golang
+3. Compile o código-fonte:
+   ```bash
+   go build
+4. Antes de iniciar o BOT, é necessário configurar sua token, configure em ../input/tokens.txt
+5. Configure sua mensagem a ser enviada em message.json
+6. Inicie o BOT
+   ```bash
+   ./bot-divulgacao-golang  
 
 # Notas Importantes
 Este bot foi criado com o objetivo de ser usado de forma responsável e respeitosa. Não o utilize para fins de spam ou para perturbar outros usuários.
